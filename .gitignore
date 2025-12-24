@@ -1,0 +1,24 @@
+# Python Environment
+__pycache__/
+.venv/
+env/
+venv/
+*.pyc
+
+# Distribution / Build
+build/
+dist/
+*.spec
+
+# Application Data (Do not commit user configs or logs)
+config.ini
+errors.log
+Image2PDF_Pro.spec
+
+# Binaries (Usually better to distribute via Releases, not repo)
+# Uncomment if you specifically DO NOT want the exe in the repo
+# *.exe
+
+# IDE
+.vscode/
+.idea/
