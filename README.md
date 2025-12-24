@@ -35,6 +35,13 @@
 
 ---
 
+## 📸 Screenshots
+
+![Main Dashboard](assets/screenshot.png)
+_(The modern dark-mode interface)_
+
+---
+
 ## 📥 Installation
 
 ### Option 1: Standalone Executable (Recommended)
