@@ -38,6 +38,7 @@
 ## 📸 Screenshots
 
 ![Main Dashboard](assets/screenshot.jpg)
+
 _(The modern dark-mode interface)_
 
 ---
